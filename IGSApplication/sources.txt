@@ -1,0 +1,75 @@
+[last visited on 18.09.2019] 
+all sources can also be found within the code
+
+
+CODE SOURCES
+============
+
+generateSPARQL
+- https://stackoverflow.com/a/11926475
+
+changeButtons
+- http://jsfiddle.net/QAaHP/16/
+- https://stackoverflow.com/a/46532733
+- https://stackoverflow.com/a/50601078 
+
+deleteSPARQL
+- https://stackoverflow.com/questions/14480345/how-to-get-the-nth-occurrence-in-a-string
+
+generateOptions
+- http://zetcode.com/articles/jqueryautocomplete/ (also OptionController)
+- https://stackoverflow.com/questions/18720359/jquery-autocomplete-force-choice/18724920
+- https://api.jqueryui.com/autocomplete/
+
+RequestFuseki
+- https://jena.apache.org/documentation/query/app_api.html
+- https://jena.apache.org/documentation/javadoc/arq/org/apache/jena/query/QueryExecution.html
+- https://gist.github.com/thiloplanz/f2d279cfc0880327a197/
+
+RequestSQL
+- https://stackoverflow.com/questions/20677326/how-to-add-whitepaces-between-each-capital-letter
+
+style
+- https://stackoverflow.com/a/14808978
+- https://stackoverflow.com/a/20430219
+- https://kodhus.com/kodnest/land/mrfndyO
+- https://stackoverflow.com/a/9618158
+- https://www.w3schools.com/howto/howto_css_switch.asp
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
+- https://stackoverflow.com/a/34455253
+- https://www.w3schools.com/css/css_tooltip.asp
+
+
+-> QueryAFE by professorship (esp. SPARQLXMLHandler and parts of SPARQLController and RequestFuseki)
+   Goethe Universität Frankfurt am Main, Fachbereich 12, Datenbanken und Informationssysteme
+
+
+
+IMAGE SOURCES
+=============
+all by me except for...
+
+- #body background-image: 
+
+	-> pexels-photo-725713
+	Navneet Shanu
+	Source: https://www.pexels.com/photo/ancient-bronze-coins-gold-725713/
+	License: Pexel License, https://www.pexels.com/photo-license/
+		 terms of service -> https://www.pexels.com/terms-of-service/
+	modified
+
+- .coins background-image:
+
+	-> coin2
+	jharnum (pixabay.com), "Gold Coin Greek Free Picture"
+	Source: https://www.needpix.com/photo/863264/gold-coin-greek-money-rich-sign-financial-metal-symbol
+	License: https://www.needpix.com/about -> Creative Commons Zero (CC0),
+		 https://creativecommons.org/publicdomain/zero/1.0/legalcode
+	modified
+
+	-> coin
+	Hermann Junghans, "Hemidrachme Kios Vs"
+	Source: https://de.wikipedia.org/wiki/Datei:Hemidrachme_Kios_Vs.JPG
+	License: Creative Commons (CC) "Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland",
+		 https://creativecommons.org/licenses/by-sa/3.0/de/legalcode
+	modified
